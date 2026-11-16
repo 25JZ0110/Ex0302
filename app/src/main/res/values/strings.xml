@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">簡易電卓</string>
+    <string name="title">計算機</string>
+    <string name="btn_calc">計算する</string>
+
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
